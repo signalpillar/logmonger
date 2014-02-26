@@ -4,7 +4,6 @@ import mox
 import unittest
 
 import logmonger
-import pymongo
 
 class TestLogMonger(unittest.TestCase):
 
